@@ -19,3 +19,5 @@ chkconfig mongod on
 
 service mongod start
 
+mongod -version
+
